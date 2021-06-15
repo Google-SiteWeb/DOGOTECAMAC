@@ -1,0 +1,34 @@
+<style type="text/css">
+body,td,th {
+	font-size: 24px;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<table width="1340" border="0">
+  <tr>
+    <td height="214"><img src="../IMAGENES/dogo.jpg" width="273" height="210"><img src="../IMAGENES/cabecera.jpg" width="790" height="210"><img src="../IMAGENES/dogo.jpg" width="273" height="210"></td>
+  </tr>
+  <tr>
+    <td><img src="../IMAGENES/BLANC.jpg" width="1340" height="38"></td>
+  </tr>
+  <tr>
+    <td><!-- TemplateBeginEditable name="info" -->info<!-- TemplateEndEditable --></td>
+  </tr>
+  <tr>
+    <td><!-- TemplateBeginEditable name="imagen" -->imagen<!-- TemplateEndEditable --></td>
+  </tr>
+  <tr>
+    <td><!-- TemplateBeginEditable name="EditRegion4" -->EditRegion4<!-- TemplateEndEditable --></td>
+  </tr>
+  <tr>
+    <td><img src="../IMAGENES/BLANC.jpg" width="1340" height="38"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Un mundo de limpieza<br>
+¡ La calidad no cuesta más !</strong></td>
+  </tr>
+  <tr>
+    <td><img src="../IMAGENES/BLANC.jpg" width="1340" height="38"></td>
+  </tr>
+</table>

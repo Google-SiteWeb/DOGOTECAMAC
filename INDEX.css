@@ -1,0 +1,115 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Documento sin título</title>
+<link href="boilerplate.css" rel="stylesheet" type="text/css">
+<link href="INDEX.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+body,td,th {
+	font-size: 18px;
+	color: #FFF;
+	font-style: italic;
+}
+a:link {
+	color: #FFF;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #66CCFF;
+}
+a:hover {
+	text-decoration: underline;
+	color: #003;
+}
+a:active {
+	text-decoration: none;
+}
+</style>
+<!-- 
+Para obtener más información sobre los comentarios condicionales situados alrededor de las etiquetas html en la parte superior del archivo:
+paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/
+  
+Haga lo siguiente si usa su compilación personalizada de modernizr (http://www.modernizr.com/):
+* inserte el vínculo del código js aquí
+* elimine el vínculo situado debajo para html5shiv
+* añada la clase "no-js" a las etiquetas html en la parte superior
+* también puede eliminar el vínculo con respond.min.js si ha incluido MQ Polyfill en su compilación de modernizr 
+-->
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script src="respond.min.js"></script>
+</head>
+<body>
+<div class="gridContainer clearfix">
+  <div id="LayoutDiv1">
+    <table width="880" align="center">
+      <tr>
+        <td colspan="2"><img src="IMAGENES/BLANC.jpg" width="880" height="37"></td>
+      </tr>
+      <tr>
+        <td width="250" height="166"><img src="IMAGENES/dogo.jpg" width="250" height="173"></td>
+        <td width="758"><img src="IMAGENES/Sin título.jpg" width="625" height="172"></td>
+      </tr>
+      <tr>
+        <td colspan="2" align="left"><img src="IMAGENES/BLANC.jpg" width="880" height="35"></td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center" bgcolor="#0066FF"><strong class="clearfix"><em>INICIO / NOSOTROS / LÍNEAS / CONTACTO / UBICACIÓN</em font-size="80"></strong></td>
+      </tr>
+      <tr>
+        <td colspan="2" align="left" valign="middle"> <!-- Insert to your webpage before the </head> -->
+    <script src="sliderengine/jquery.js"></script>
+    <script src="sliderengine/amazingslider.js"></script>
+    <link rel="stylesheet" type="text/css" href="sliderengine/amazingslider-1.css">
+    <script src="sliderengine/initslider-1.js"></script>
+    <!-- End of head section HTML codes -->
+     <!-- Insert to your webpage where you want to display the slider -->
+    <div id="amazingslider-wrapper-1" style="display:block;position:relative;max-width:1000px;margin:0px auto 48px;">
+        <div id="amazingslider-1" style="display:block;position:relative;margin:0 auto;">
+            <ul class="amazingslider-slides" style="display:none;">
+                <li><img src="imagenes/gal%201.png" alt="somos" />
+                <video preload="none" src="imagenes/somos.mp4" ></video>
+                </li>
+                <li><img src="imagenes/gal%204.png" />
+                </li>
+                <li><img src="imagenes/gal%205.png" />
+                </li>
+                <li><img src="imagenes/certificados_CLORO%20GEL_Digital.png" />
+                </li>
+                <li><img src="imagenes/certificados_DOGARC_Digital.png" />
+                </li>
+                <li><img src="imagenes/certificados_GERQUIR_Digital.png" />
+                </li>
+                <li><img src="imagenes/Gal%202.png" />
+                </li>
+                <li><img src="imagenes/gel%20antibacterial1.png" />
+                </li>
+            </ul>
+        <div class="amazingslider-engine"><a href="http://amazingslider.com" title="Responsive jQuery Content Slider">Responsive jQuery Content Slider</a></div>
+        </div>
+    </div>
+    <!-- End of body section HTML codes -->&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="2"><img src="IMAGENES/BLANC.jpg" width="880" height="35"></td>
+      </tr>
+      <tr>
+        <td height="99" colspan="2" align="center" valign="middle"><a href="https://www.facebook.com/DogoLosHeroesTecamac"><img src="IMAGENES/fa.png" width="122" height="93"></a><a href="https://www.instagram.com/soy_dogo_oficial/"><img src="IMAGENES/ins.jpg" width="123" height="95"></a><a href="https://www.youtube.com/channel/UCNBI_-Z06lQSI_8CctgBx8Q/featured?view_as=subscriber"><img src="IMAGENES/yout.png" width="340" height="93"></a><a href="https://goo.gl/maps/AisRMQSxNc5wrdHM7"><img src="IMAGENES/maps.png" width="92" height="93"></a></td>
+      </tr>
+      <tr>
+        <td colspan="2"><img src="IMAGENES/BLANC.jpg" width="880" height="35"></td>
+      </tr>
+    </table>
+  </div>
+</div>
+</body>
+</html>
